@@ -1,1 +1,1 @@
-# microservice-restTemplate
+# microservice-restTemplate with timeout funcationality
